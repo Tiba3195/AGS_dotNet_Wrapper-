@@ -1,0 +1,26 @@
+E:\Game\Game\Insight.AGS\bin\Debug\Insight.AGS.dll
+E:\Game\Game\Insight.AGS\bin\Debug\Insight.AGS.pdb
+E:\Game\Game\Insight.AGS\bin\Debug\Insight.AGS.xml
+E:\Game\Game\Insight.AGS\obj\Debug\Insight.AGS.vbprojResolveAssemblyReference.cache
+E:\Game\Game\Insight.AGS\obj\Debug\Insight.AGS.Resources.resources
+E:\Game\Game\Insight.AGS\obj\Debug\Insight.AGS.vbproj.GenerateResource.Cache
+E:\Game\Game\Insight.AGS\obj\Debug\Insight.AGS.dll
+E:\Game\Game\Insight.AGS\obj\Debug\Insight.AGS.xml
+E:\Game\Game\Insight.AGS\obj\Debug\Insight.AGS.pdb
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\Insight.AGS.dll
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\Insight.AGS.pdb
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\Insight.AGS.xml
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\obj\Debug\Insight.AGS.vbprojResolveAssemblyReference.cache
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\obj\Debug\Insight.AGS.Resources.resources
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\obj\Debug\Insight.AGS.vbproj.GenerateResource.Cache
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\obj\Debug\Insight.AGS.dll
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\obj\Debug\Insight.AGS.xml
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\obj\Debug\Insight.AGS.pdb
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.Mathematics.dll
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.dll
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.Mathematics.xml
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.xml
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.Direct3D11.dll
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.DXGI.dll
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.Direct3D11.xml
+C:\Users\justi\Documents\Visual Studio 2015\Projects\Insight.AGS\bin\Debug\SharpDX.DXGI.xml

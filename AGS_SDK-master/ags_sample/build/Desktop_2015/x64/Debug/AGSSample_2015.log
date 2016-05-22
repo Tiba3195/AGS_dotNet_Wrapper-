@@ -1,0 +1,9 @@
+﻿C:\Program Files (x86)\MSBuild\Microsoft.Cpp\v4.0\V140\Microsoft.CppBuild.targets(368,5): warning MSB8004: Output Directory does not end with a trailing slash.  This build instance will add the slash as it is required to allow proper evaluation of the Output Directory.
+LINK : warning LNK4075: ignoring '/INCREMENTAL' due to '/LTCG' specification
+PGOMGR : warning PG0188: No .PGC files matching '..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper!*.pgc' were found.
+    Reading PGD file 1: ..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper.pgd
+..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper.pgd : warning C4961: No profile data was merged into '..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper.pgd', profile-guided optimizations disabled
+     Creating library ..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper.lib and object ..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper.exp
+  Generating code
+  Finished generating code
+  AGSSample_2015.vcxproj -> C:\Users\justi\Documents\Visual Studio 2015\Projects\AGS_SDK-master\ags_sample\build\..\..\..\SharpDX Sample\bin\Debug\AGS_Wrapper.dll

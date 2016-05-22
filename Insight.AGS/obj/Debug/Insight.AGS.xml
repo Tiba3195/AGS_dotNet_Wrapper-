@@ -1,0 +1,92 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+Insight.AGS
+</name>
+</assembly>
+<members>
+<member name="T:Insight.AGS.My.Resources.Resources">
+<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+<member name="P:Insight.AGS.My.Resources.Resources.ResourceManager">
+<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member>
+<member name="P:Insight.AGS.My.Resources.Resources.Culture">
+<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.deviceId">
+int
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.revisionId">
+int
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.iNumCUs">
+int
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.iCoreClock">
+int
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.iMemoryClock">
+int
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.fTFlops">
+float
+</member>
+<member name="F:Insight.AGS.GpuinfoOutput.version">
+ArchitectureVersion
+</member>
+<member name="F:Insight.AGS.DriverExtensions.Supported">
+unsigned int
+</member>
+<member name="F:Insight.AGS.DriverExtensions.ReturnCode">
+int
+</member>
+<member name="F:Insight.AGS.AGSRect.iXOffset">
+int
+</member>
+<member name="F:Insight.AGS.AGSRect.iYOffset">
+int
+</member>
+<member name="F:Insight.AGS.AGSRect.iWidth">
+int
+</member>
+<member name="F:Insight.AGS.AGSRect.iHeight">
+int
+</member>
+<member name="F:Insight.AGS.AGSDisplayInfo.iGridXCoord">
+int
+</member>
+<member name="F:Insight.AGS.AGSDisplayInfo.iGridYCoord">
+int
+</member>
+<member name="F:Insight.AGS.AGSDisplayInfo.displayRect">
+AGSRect
+</member>
+<member name="F:Insight.AGS.AGSDisplayInfo.displayRectVisible">
+AGSRect
+</member>
+<member name="F:Insight.AGS.AGSDisplayInfo.iPreferredDisplay">
+int
+</member>
+<member name="F:Insight.AGS.AGSOuput.Value">
+int
+</member>
+<member name="F:Insight.AGS.AGSOuput.ReturnCode">
+int
+</member>
+<member name="F:Insight.AGS.AGSPrimitiveTopology.QUADLIST">
+AGS_PRIMITIVE_TOPOLOGY_QUADLIST -> 7
+</member>
+<member name="F:Insight.AGS.AGSPrimitiveTopology.SCREENRECTLIST">
+AGS_PRIMITIVE_TOPOLOGY_SCREENRECTLIST -> 9
+</member>
+</members>
+</doc>
